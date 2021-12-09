@@ -1,0 +1,70 @@
+.ekran{
+    margin-top: 100px;
+    width: 800px;
+    height: 500px;
+    opacity: 70%;
+    border-radius: 8px;
+    position: absolute;
+    z-index: -1;
+}
+
+.it{
+    display: flex;
+    flex-direction: row;
+}
+
+.it > h4{
+    color: white;
+    
+}
+
+
+
+.moreReact > h4{
+    color: white;
+    margin-left: 80px;
+}
+
+.morePython > h4{
+    color: white;
+    margin-left: 80px;
+}
+
+#moreScrapp > h4{
+    color: white;
+    margin-left: 80px;
+}
+
+
+#hobby{
+    height: 80px;
+    width: 150px;
+    margin-left: 50px;
+    border-radius: 8px;
+    margin-top: 100px;
+}
+
+#hobby:hover{
+    cursor: pointer;
+    transform: scale(1.10);
+}
+
+.other{
+    display: flex;
+    margin-top: -70px;
+}
+
+.moreFootball > h4{
+    color: white;
+    margin-left: 80px;
+}
+
+.moreTravel > h4{
+    color: white;
+    margin-left: 80px;
+}
+
+#moreCooking > h4{
+    color: white;
+    margin-left: 80px;
+}
